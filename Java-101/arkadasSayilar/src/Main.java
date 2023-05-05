@@ -18,6 +18,7 @@ public class Main {
                 toplam2 += i;
 
             }
+
         }
 
 if ( sayi1 == toplam2 && sayi2 == toplam1){
@@ -27,8 +28,6 @@ if ( sayi1 == toplam2 && sayi2 == toplam1){
 }
 else{
     System.out.println("Arkadaş sayı değiller.");
-}
-
 
 
 
